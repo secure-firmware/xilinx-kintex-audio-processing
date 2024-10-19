@@ -230,8 +230,3 @@ endmodule
 2. **Step 2**: Each frame is multiplied by a Hanning window to reduce spectral leakage.
 3. **Step 3**: The windowed frames are transformed into the frequency domain using a 1024-point FFT.
 4. **Step 4**: The magnitude and phase of each frequency component are calculated from the FFT result.
-
----
-
-### **Next Steps**:
-Would you like to proceed with testing the FFT and magnitude/phase calculations, or move on to the next steps in the design?
