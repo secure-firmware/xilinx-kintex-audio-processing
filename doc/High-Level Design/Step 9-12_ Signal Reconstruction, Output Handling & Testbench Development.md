@@ -206,8 +206,3 @@ To thoroughly test the system, we should create additional test cases to handle 
 2. **Step 10**: The normalized output is buffered and prepared for writing to an audio file or playback system.
 3. **Step 11**: A testbench is developed to simulate the full system, with clock generation, reset handling, and output verification.
 4. **Step 12**: Further test cases are defined to ensure complete coverage of edge cases and stress testing.
-
----
-
-### **Next Steps**:
-Would you like to run through some sample test cases, or begin working on integrating real audio data into the testbench?
