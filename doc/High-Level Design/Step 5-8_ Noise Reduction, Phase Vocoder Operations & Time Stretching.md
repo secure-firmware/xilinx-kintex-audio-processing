@@ -229,8 +229,3 @@ endmodule
 
  inverse FFT converts the stretched frequency-domain signal back to the time domain.
 4. **Step 8**: The overlap-add method is used to reconstruct the final time-domain signal from overlapping frames.
-
----
-
-### **Next Steps**:
-Would you like to proceed with the final steps of the phase vocoder design, or would you prefer to begin testing the implementation so far?
